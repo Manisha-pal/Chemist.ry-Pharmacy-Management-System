@@ -1,4 +1,4 @@
-# **Pharmacy-Management-System**
+**Chemist.ry : A Pharmacy Management System**
 
 **How to run the Project:**
 1. Clone this repo using 
@@ -52,31 +52,6 @@ o	Windows/ MacOS/ Linux operating system.<br>
 o	JRE and JDK.<br>
 o	MySQL server (WAMP or XAMPP or any)<br>
 
-# Chapter 2 - DESIGN<br>
-Database Design is a collection of processes that facilitate the designing, development, implementation and maintenance of enterprise data management systems.<br>
-It helps produce database systems:<br>
-o	That meet the requirements of the users<br>
-o	Have high performance.<br><br>
-
-**Architecture Description** <br>
-The design of a DBMS depends on its architecture. It can be centralized or decentralized or hierarchical. The architecture of a DBMS can be seen as either single tier or multi-tier.<br><br>
-**ER Diagram**
-
-![image.png](diagram/ER_diagram.png)
- 
-Fig 1: ER Diagram
-
-An entity–relationship model describes interrelated things of interest in a specific domain of knowledge (Refer Fig 1). It is composed of entity types and specifies relationships that can exist between instances of those entity types.
- 
-**Relational Schema Diagram**
-
-![image_1.png](diagram/RelationalSchema.png)
-
- Fig 2: Relational Schema <br><br>
-Relational schema is a collection of meta-data. Database schema describes the structure and constraints of data representing in a particular domain (Refer Fig 2).
-
-# Chapter 3 - IMPLEMENTATION <br>
-**Description on Implementation**<br>
 The goal of this application is to manage the medicines and various function of the pharmacy. <br><br>
 **List of modules:**<br>
 o	Login page<br>
@@ -89,7 +64,7 @@ o	User/Settings<br>
 o	Messaging<br>
 
 
-# Chapter 4 - Result and Discussion<br>
+**Result and Discussion**<br>
 By using MySQL commands and its database this website Pharmacy management tends to store all the data received from the users including drugs sales details and the profit made by the owners are all in this data base. This website allows the user to generate invoices for sales, check expiry and quantity remaining of the drugs. It also provides user with options to renew validity and add more drugs into the store and update the database accordingly. By using xampp server these database commands are easily initiated into the database and the ER diagram with relational schema diagrams helps us to make the structure of the database faster and it was easier to make them understand the needs of the website.<br>
 
 **Login Information** <br>
@@ -99,7 +74,7 @@ By using MySQL commands and its database this website Pharmacy management tends 
  ```
  <br>
 
-# CONCLUSIONS AND FUTURE SCOPE
+**Conclusion & Scope**
 o	Detailed information gathering has to be done. Without that the purpose for using the software won’t be satisfied properly.<br>
 o	However, it can give good profits in the long run.<br>
 o	Implementing the software requires change in the business practices.<br>
