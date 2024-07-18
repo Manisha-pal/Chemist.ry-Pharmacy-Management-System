@@ -1,12 +1,11 @@
 **Chemist.ry : A Pharmacy Management System**
 
-**Introduction**: <br>
-The main aim of the project is the management of the database of the pharmaceutical shop. This project is insight into the design and implementation of a Pharmacy Management System. This is done by creating a database of the available medicines in the shop. The primary aim of pharmacy management system is to improve accuracy and enhance safety and efficiency in the pharmaceutical store. The aim of this project is to develop software for the effective management of a pharmaceutical store. We have developed this software for ensuring effective policing by providing statistics of the drugs in stock. 
+**Introduction**: <br>This project focuses on designing and implementing a Pharmacy Management System to streamline the management of pharmaceutical stores. By creating a comprehensive database of available medicines, the system aims to improve accuracy, safety, and efficiency. The  provides robust inventory statistics, ensuring effective oversight and management of drug stocks.
 
 **Description on the topic:** <br>
 This program can be used in any pharmaceutical shops having a database to maintain. The software used can generate reports, as per the user’s requirements. The software can print invoices, bills, receipts etc. It can also maintain the record of supplies sent in by the supplier. Here, the admin who are handling the organization will be responsible to manage the record of the employee. Each employee will be given with a separate username and password.
 
-**Problem Definition:**<br>
+**Problem Definition**:<br>
 The aim of the project is to create an effective software to help the pharmacist to maintain the records of the medicines, handle user details, generate invoice, check and renew validity and provide a scope of communication between users by using inbuilt messaging system. Pharmacy management system deals with the maintenance of drugs and consumables in the pharmacy unit. This pharmacy management system is user friendly.
 
 **Objectives**<br>
@@ -50,17 +49,6 @@ The goal of this application is to manage the medicines and various function of 
 
 **Result and Discussion**<br>
 By using MySQL commands and its database this website Pharmacy management tends to store all the data received from the users including drugs sales details and the profit made by the owners are all in this data base. This website allows the user to generate invoices for sales, check expiry and quantity remaining of the drugs. It also provides user with options to renew validity and add more drugs into the store and update the database accordingly. By using xampp server these database commands are easily initiated into the database and the ER diagram with relational schema diagrams helps us to make the structure of the database faster and it was easier to make them understand the needs of the website.<br>
-
-**Conclusion & Scope**<br>
-•	Detailed information gathering has to be done. Without that the purpose for using the software won’t be satisfied properly.<br>
-•	However, it can give good profits in the long run.<br>
-•	Implementing the software requires change in the business practices.<br>
-•	Efficient organization of all knowledge is the analysis company and easy analysis access and retrieval of information is possible.<br>
-•	In this project we can also include BAR CODE facility using the bar code reader, which will detect the expiry date and the other information about the related medicines.<br>
-•	Company using this software will always be able to plan in future and always be aware of their financial position in the market. <br>
-•	It leads to ease in functioning of business processes.<br>
-•	The project can be made more robust by including biometric verification.<br>
-•	There is also a scope to expand by implementing newer technologies like cloud etcetera. <br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
